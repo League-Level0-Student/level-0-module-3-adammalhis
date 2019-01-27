@@ -12,7 +12,7 @@ if (AreYouHappy.equals("yes")) {
 else if (AreYouHappy.equals("no")) {
 	String DoYouWantToBeHappy=JOptionPane.showInputDialog("Do you want to be happy?");
 
- if (DoYouWantToBeHappy.equals("Yes")) {
+ if (DoYouWantToBeHappy.equals("yes")) {
 	JOptionPane.showMessageDialog(null, "Then change something");
 }
  else if (DoYouWantToBeHappy.equals("no")) {
