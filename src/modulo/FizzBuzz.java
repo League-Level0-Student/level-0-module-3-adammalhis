@@ -3,6 +3,7 @@
 
 package modulo;
 
+import javax.swing.JOptionPane;
 
 /**
 * Fizz Buzz
@@ -26,6 +27,172 @@ package modulo;
 **/
 
 public class FizzBuzz {
+public static void main(String[] args) {
+	
+ JOptionPane.showMessageDialog(null, "We are going to play FizzBuzz!");
+ 
 
+ String Player1=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player1.equals("1")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player2=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player2.equals("2")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player3=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player3.equals("fizz")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player4=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player4.equals("4")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player5=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player5.equals("buzz")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player6=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player6.equals("fizz")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player7=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player7.equals("7")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player8=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player8.equals("8")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player9=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player9.equals("9")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player10=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player10.equals("buzz")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player11=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player11.equals("11")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player12=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player12.equals("fizz")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player13=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player13.equals("13")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player14=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player14.equals("14")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player15=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player15.equals("fizzbuzz")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player16=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player16.equals("16")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player17=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player17.equals("17")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player18=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player18.equals("fizz")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player19=JOptionPane.showInputDialog(null, "player 1's turn");
+ if (Player19.equals("19")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+ String Player20=JOptionPane.showInputDialog(null, "player 2's turn");
+ if (Player20.equals("buzz")) {
+	 JOptionPane.showMessageDialog(null, "Good!");
+	  }
+ else {
+	 JOptionPane.showMessageDialog(null, "Out!");
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
 }
 
