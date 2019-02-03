@@ -89,7 +89,7 @@ public static void main(String[] args) {
 	 JOptionPane.showMessageDialog(null, "Out!");
  }
  String Player9=JOptionPane.showInputDialog(null, "player 1's turn");
- if (Player9.equals("9")) {
+ if (Player9.equals("fizz")) {
 	 JOptionPane.showMessageDialog(null, "Good!");
 	  }
  else {
